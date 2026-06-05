@@ -75,12 +75,12 @@ export default function ContactInfoSection() {
                 </span>
                 <span className="text-sm">www.bmuhealthcare.com</span>
               </div>
-              <div className="flex items-center gap-2 text-white">
+              {/* <div className="flex items-center gap-2 text-white">
                 <span className="flex-shrink-0">
                   <PhoneIcon />
                 </span>
                 <span className="text-sm">+62 21 7179 1798</span>
-              </div>
+              </div> */}
               <div className="flex items-center gap-2 text-white">
                 <span className="flex-shrink-0">
                   <MailIcon />

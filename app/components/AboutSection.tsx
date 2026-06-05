@@ -42,8 +42,20 @@ export default function AboutSection() {
             {t("p2")}
           </p>
 
-          <p className="text-[14px] text-gray-600 leading-relaxed">
+          <p className="text-[14px] text-gray-600 leading-relaxed mb-5">
             {t("p3")}
+          </p>
+
+          <p className="text-[14px] text-gray-600 leading-relaxed mb-5">
+            {t("p4")}
+          </p>
+
+          <p className="text-[14px] text-gray-600 leading-relaxed mb-5">
+            {t("p5")}
+          </p>
+
+          <p className="text-[14px] text-gray-600 leading-relaxed">
+            {t("p6")}
           </p>
         </div>
       </div>

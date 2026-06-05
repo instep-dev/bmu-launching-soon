@@ -42,9 +42,9 @@ export default function HeroSection() {
               {t("description")}
             </p>
             <div>
-              <button className="bg-transparent px-4 py-2 border rounded-md inline-flex text-sm md:text-base">
+              <a href="#about" className="bg-transparent px-4 py-2 border rounded-md inline-flex text-sm md:text-base">
                 {t("cta")}
-              </button>
+              </a>
             </div>
           </div>
           <div className="hidden md:block" />

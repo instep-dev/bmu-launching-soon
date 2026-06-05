@@ -1,10 +1,57 @@
 "use client";
 import { useState } from "react";
+import toast from "react-hot-toast";
 import { useTranslations } from "@/app/i18n/TranslationsContext";
 
 export default function ContactFormSection() {
   const [agreed, setAgreed] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [fullName, setFullName] = useState("");
+  const [email, setEmail] = useState("");
+  const [messageTitle, setMessageTitle] = useState("");
+  const [message, setMessage] = useState("");
   const t = useTranslations("contactForm");
+
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+  async function handleSubmit(e: React.FormEvent) {
+    e.preventDefault();
+
+    if (!fullName || !email || !messageTitle || !message) {
+      toast.error("Please fill in all fields.");
+      return;
+    }
+    if (!emailRegex.test(email)) {
+      toast.error("Please enter a valid email address.");
+      return;
+    }
+    if (!agreed) {
+      toast.error("Please agree to the privacy policy.");
+      return;
+    }
+
+    setLoading(true);
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ fullName, email, messageTitle, message }),
+      });
+
+      if (!res.ok) throw new Error();
+
+      toast.success("Message sent! We'll be in touch soon.");
+      setFullName("");
+      setEmail("");
+      setMessageTitle("");
+      setMessage("");
+      setAgreed(false);
+    } catch {
+      toast.error("Something went wrong. Please try again.");
+    } finally {
+      setLoading(false);
+    }
+  }
 
   return (
     <section
@@ -32,18 +79,22 @@ export default function ContactFormSection() {
           </h2>
 
           {/* Form */}
-          <form className="flex flex-col gap-4">
+          <form className="flex flex-col gap-4" onSubmit={handleSubmit}>
             {/* Row: Name + Email */}
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <input
                 type="text"
                 placeholder={t("name")}
+                value={fullName}
+                onChange={(e) => setFullName(e.target.value)}
                 className="px-3 py-[10px] text-[13px] text-gray-700 placeholder-gray-400 focus:outline-none"
                 style={{ border: "2px solid #b96ec0" }}
               />
               <input
                 type="email"
                 placeholder={t("email")}
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
                 className="px-3 py-[10px] text-[13px] text-gray-700 placeholder-gray-400 focus:outline-none"
                 style={{ border: "2px solid #b96ec0" }}
               />
@@ -53,6 +104,8 @@ export default function ContactFormSection() {
             <input
               type="text"
               placeholder={t("messageTitle")}
+              value={messageTitle}
+              onChange={(e) => setMessageTitle(e.target.value)}
               className="px-3 py-[10px] text-[13px] text-gray-700 placeholder-gray-400 focus:outline-none"
               style={{ border: "2px solid #b96ec0" }}
             />
@@ -61,6 +114,8 @@ export default function ContactFormSection() {
             <textarea
               placeholder={t("message")}
               rows={5}
+              value={message}
+              onChange={(e) => setMessage(e.target.value)}
               className="px-3 py-[10px] text-[13px] text-gray-700 placeholder-gray-400 focus:outline-none resize-none"
               style={{ border: "2px solid #b96ec0" }}
             />
@@ -89,18 +144,21 @@ export default function ContactFormSection() {
             <div className="flex justify-center mt-4">
               <button
                 type="submit"
-                className="flex items-center gap-2 text-[14px] text-gray-800 font-medium hover:text-purple-700 transition-colors"
+                disabled={loading}
+                className="flex items-center gap-2 text-[14px] text-gray-800 font-medium hover:text-purple-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
               >
-                {t("send")}
-                <svg width="18" height="14" viewBox="0 0 18 14" fill="none">
-                  <path
-                    d="M1 7H17M11 1L17 7L11 13"
-                    stroke="currentColor"
-                    strokeWidth="1.8"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                  />
-                </svg>
+                {loading ? "Sending..." : t("send")}
+                {!loading && (
+                  <svg width="18" height="14" viewBox="0 0 18 14" fill="none">
+                    <path
+                      d="M1 7H17M11 1L17 7L11 13"
+                      stroke="currentColor"
+                      strokeWidth="1.8"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                  </svg>
+                )}
               </button>
             </div>
           </form>

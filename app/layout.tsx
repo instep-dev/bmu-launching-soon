@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Lato } from "next/font/google";
 import "./globals.css";
+import ToasterProvider from "@/app/components/reusable/ToasterProvider";
 
 const lato = Lato({
   variable: "--font-lato",
@@ -118,7 +119,10 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
       </head>
-      <body>{children}</body>
+      <body>
+        <ToasterProvider />
+        {children}
+      </body>
     </html>
   );
 }

@@ -8,7 +8,6 @@ import { useTranslations } from "@/app/i18n/TranslationsContext";
 const NAV_LINK_KEYS = [
   { key: "home", id: "home" },
   { key: "about", id: "about" },
-  { key: "milestone", id: "milestone" },
   { key: "team", id: "team" },
   { key: "contact", id: "contact" },
 ];

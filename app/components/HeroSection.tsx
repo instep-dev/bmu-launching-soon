@@ -31,20 +31,21 @@ export default function HeroSection() {
         src="/IMAGE GEDUNG.png"
       />
 
-      {/* Hero content area */}
-      <div className="h-[55vh] sm:h-[65vh] md:h-[90vh] relative z-10">
+      {/* Hero content area — min-h so content never clips */}
+      <div className="min-h-[56vh] sm:min-h-[65vh] md:min-h-[85vh] lg:min-h-[90vh] relative z-10">
         <div className="max-w-[1280px] w-full mx-auto px-4 md:px-2 h-full grid grid-cols-1 md:grid-cols-2">
-          <div className="flex flex-col justify-end space-y-4 md:space-y-6 pb-8 md:pb-32">
-            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold leading-tight">
+          <div className="flex flex-col space-y-3 md:space-y-3 lg:space-y-5 pb-8 md:pb-10 lg:pb-36 h-full">
+            <div className="flex-1 min-h-[5rem] md:min-h-[6rem] lg:min-h-[8rem]" />
+            <h1 className="text-2xl sm:text-3xl md:text-3xl lg:text-4xl xl:text-5xl font-semibold leading-tight">
               {t("title")}
             </h1>
-            <p className="text-sm md:text-base max-w-sm md:max-w-none mb-3">
+            <p className="text-xs sm:text-sm md:text-sm lg:text-base max-w-sm md:max-w-none">
               {t("description1")}
             </p>
-            <p className="text-sm md:text-base max-w-sm md:max-w-none mb-3">
+            <p className="text-xs sm:text-sm md:text-sm lg:text-base max-w-sm md:max-w-none">
               {t("description2")}
             </p>
-            <p className="text-sm md:text-base max-w-sm md:max-w-none">
+            <p className="text-xs sm:text-sm md:text-sm lg:text-base max-w-sm md:max-w-none">
               {t("description3")}
             </p>
             <div>
@@ -57,18 +58,18 @@ export default function HeroSection() {
         </div>
       </div>
 
-      {/* Stats bar — in-flow on mobile, absolute on desktop */}
-      <div className="relative z-10 w-full grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-12 px-4 md:px-0 py-4 md:py-0 md:absolute md:-bottom-10 md:left-1/2 md:-translate-x-1/2 md:w-[1280px]">
+      {/* Stats bar — in-flow on mobile & tablet, absolute on lg+ desktop */}
+      <div className="relative z-10 w-full grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4 lg:gap-10 px-4 md:px-10 py-4 md:py-3 lg:py-0 lg:absolute lg:-bottom-10 lg:left-1/2 lg:-translate-x-1/2 lg:w-[1280px] lg:px-0">
         {stats.map((item, i) => (
           <div
             key={i}
-            className={`${colors[i]} rounded-md text-center p-3 flex items-center justify-center min-h-[80px] md:min-h-0`}
+            className={`${colors[i]} rounded-md text-center p-3 flex items-center justify-center min-h-[80px] md:min-h-[70px] lg:min-h-0`}
           >
             <div>
-              <h2 className="text-lg sm:text-xl md:text-3xl font-semibold uppercase">
+              <h2 className="text-lg sm:text-xl md:text-xl lg:text-3xl font-semibold uppercase">
                 {item.title}
               </h2>
-              <p className="text-xs md:text-sm">{item.desc}</p>
+              <p className="text-xs md:text-xs lg:text-sm">{item.desc}</p>
             </div>
           </div>
         ))}

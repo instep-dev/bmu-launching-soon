@@ -38,8 +38,14 @@ export default function HeroSection() {
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-semibold leading-tight">
               {t("title")}
             </h1>
+            <p className="text-sm md:text-base max-w-sm md:max-w-none mb-3">
+              {t("description1")}
+            </p>
+            <p className="text-sm md:text-base max-w-sm md:max-w-none mb-3">
+              {t("description2")}
+            </p>
             <p className="text-sm md:text-base max-w-sm md:max-w-none">
-              {t("description")}
+              {t("description3")}
             </p>
             <div>
               <a href="#about" className="bg-transparent px-4 py-2 border rounded-md inline-flex text-sm md:text-base">

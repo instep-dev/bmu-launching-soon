@@ -7,7 +7,9 @@
   },
   "hero": {
     "title": "Membangun Institusi Kesehatan yang Berkelanjutan",
-    "description": "BMUHealthcare adalah platform pengembangan layanan kesehatan yang didedikasikan untuk menciptakan, mengembangkan, mengoperasikan, dan mengembangkan bisnis kesehatan di Indonesia. Tim kami yang berpengalaman memiliki pengalaman gabungan selama beberapa dekade yang secara mendalam didedikasikan untuk membangun organisasi layanan kesehatan—menciptakan institusi yang menghasilkan nilai jangka panjang bagi pasien, tenaga kesehatan, dan komunitas.",
+    "description1": "BMUHealthcare adalah platform pengembangan layanan kesehatan yang didedikasikan untuk menciptakan, mentransformasi, mengoperasikan, dan mengembangkan institusi kesehatan di seluruh Indonesia.",
+    "description2": "Selama lebih dari dua dekade, para pendiri kami telah terlibat langsung dalam membangun organisasi layanan kesehatan—dari konsep dan modal hingga operasional dan pertumbuhan—menciptakan institusi yang menghasilkan nilai jangka panjang bagi pasien, tenaga kesehatan, komunitas, dan pemangku kepentingan.",
+    "description3": "Hari ini, BMUHealthcare bermitra dengan para pendiri, pemilik rumah sakit, investor, dan organisasi kesehatan untuk mewujudkan visi layanan kesehatan menjadi institusi yang berkelanjutan.",
     "cta": "Pelajari Lebih Lanjut",
     "stat1Number": "20+",
     "stat1Label": "TAHUN",
@@ -42,6 +44,7 @@
     "text": "Di BMU Healthcare, kami percaya bahwa organisasi layanan kesehatan yang paling kuat dibangun melalui visi, kepemimpinan, dan komitmen jangka panjang—bukan sekadar investasi modal. Organisasi layanan kesehatan yang sukses mewakili lebih dari sekadar investasi finansial. Mereka membutuhkan visi, kepemimpinan, keunggulan operasional, dan komitmen jangka panjang untuk melayani komunitas. Pendekatan kami menggabungkan investasi strategis dengan pengembangan aktif, memastikan rumah sakit dan klinik yang kami bangun tidak hanya berkelanjutan secara finansial tetapi juga mampu memberikan dampak yang bermakna dan bertahan lama."
   },
   "team": {
+    "sectionHeading": "Siapa Kami",
     "amiraName": "Amira Ganis",
     "amiraTitle": "Pendiri",
     "amiraBio": [

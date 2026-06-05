@@ -7,7 +7,9 @@
   },
   "hero": {
     "title": "Building Healthcare Institutions That Last",
-    "description": "BMUHealthcare is a healthcare development platform dedicated to creating, developing, operating, and scaling healthcare businesses in Indonesia. Our seasoned team has decades of combined experience deeply dedicated to building healthcare organizations from concept and blueprint to operations and growth—creating institutions that generate lasting value for patients, healthcare professionals, comunities, and stakeholders. Today, BMUHealthcare partners with founders, hospital owners, investors, and healthcare organizations to transform healthcare visions into sustainable institutions.",
+    "description1": "BMUHealthcare is a healthcare development platform dedicated to creating, transforming, operating, and scaling healthcare institutions across Indonesia.",
+    "description2": "For more than two decades, our founders have been directly involved in building healthcare organizations—from concept and capital to operations and growth—creating institutions that generate lasting value for patients, healthcare professionals, communities, and stakeholders.",
+    "description3": "Today, BMUHealthcare partners with founders, hospital owners, investors, and healthcare organizations to transform healthcare visions into sustainable institutions.",
     "cta": "Learn More",
     "stat1Number": "20+",
     "stat1Label": "YEARS",
@@ -42,6 +44,7 @@
     "text": "At BMU Healthcare, we believe that the strongest healthcare organizations are built through vision, leadership, and long-term commitment—not simply capital investment. Successful healthcare organizations require more than financial investment. They require vision, leadership, operational excellence, and a long-term commitment to serving communities. Our approach combines strategic investment with active development, ensuring that healthcare institutions are not only financially sustainable, but also capable of delivering meaningful and lasting impact."
   },
   "team": {
+    "sectionHeading": "Who We Are",
     "amiraName": "Amira Ganis",
     "amiraTitle": "Founder",
     "amiraBio": [

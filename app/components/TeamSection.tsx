@@ -59,6 +59,9 @@ export default function TeamSection() {
   return (
     <section id="team" className="bg-white">
       <div className="max-w-[1280px] mx-auto px-4 md:px-10">
+        <h2 className="text-[28px] sm:text-[34px] md:text-[40px] font-black text-[#3dc4be] leading-tight pt-10 md:pt-20 mb-0">
+          {t("sectionHeading")}
+        </h2>
         <TeamMember
           name={t("amiraName")}
           title={t("amiraTitle")}

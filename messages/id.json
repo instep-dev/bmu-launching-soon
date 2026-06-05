@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "BERANDA",
+    "about": "TENTANG KAMI",
+    "milestone": "PENCAPAIAN",
+    "team": "TIM",
+    "contact": "KONTAK"
+  },
+  "hero": {
+    "title": "Membangun Institusi Kesehatan yang Berkelanjutan",
+    "description": "BMUHealthcare adalah platform pengembangan layanan kesehatan yang didedikasikan untuk menciptakan, mengembangkan, mengoperasikan, dan mengembangkan bisnis kesehatan di Indonesia. Tim kami yang berpengalaman memiliki pengalaman gabungan selama beberapa dekade yang secara mendalam didedikasikan untuk membangun organisasi layanan kesehatan—menciptakan institusi yang menghasilkan nilai jangka panjang bagi pasien, tenaga kesehatan, dan komunitas.",
+    "cta": "Pelajari Lebih Lanjut",
+    "stat1Number": "20+",
+    "stat1Label": "TAHUN",
+    "stat1Sub": "Pengalaman",
+    "stat2Number": "3000+",
+    "stat2Sub": "Tenaga Kesehatan Didukung",
+    "stat3Number": "500+",
+    "stat3Sub": "Fasilitas Kesehatan",
+    "stat4Title": "End to End",
+    "stat4Sub": "Keahlian Pengembangan Layanan Kesehatan"
+  },
+  "about": {
+    "heading": "Perjalanan Kami",
+    "p1": "BMU Healthcare didirikan atas keyakinan sederhana: institusi kesehatan yang hebat dibangun—bukan sekadar diakuisisi. Keyakinan pendiri ini telah membentuk pendekatan kami dalam berinvestasi, mengembangkan, dan bermitra dengan fasilitas layanan kesehatan.",
+    "p2": "Selama dua dekade berikutnya, para pendiri BMU Healthcare memainkan peran penting dalam mengembangkan, mengelola, dan menumbuhkan beberapa rumah sakit dan fasilitas kesehatan paling terkemuka di Indonesia. Kerja mereka membantu meletakkan fondasi institusional untuk apa yang akan menjadi jaringan institusi layanan kesehatan yang terus berkembang.",
+    "p3": "Anak perusahaan investasi formal diluncurkan pada tahun 2021. BMU Healthcare didirikan sebagai kendaraan khusus untuk membawa pengalaman operasional dan organisasi selama beberapa dekade ke sektor investasi layanan kesehatan yang lebih luas. Sejak saat itu, BMU Healthcare telah muncul sebagai perusahaan yang menggabungkan modal investasi dengan pengembangan institusional aktif—menciptakan rumah sakit dan klinik yang tidak hanya berkelanjutan secara finansial tetapi benar-benar dibangun untuk melayani."
+  },
+  "vision": {
+    "visionHeading": "Visi",
+    "visionText": "Menjadi platform pengembangan layanan kesehatan terkemuka di Indonesia dan mitra pilihan bagi institusi kesehatan yang independen.",
+    "missionHeading": "Misi",
+    "missionText": "Membantu para pendiri layanan kesehatan, pemilik rumah sakit, investor, dan organisasi kesehatan untuk mewujudkan visi menjadi kenyataan melalui keahlian pengembangan, kemitraan strategis, bantuan langsung, dan ekosistem para ahli, praktisi, dan pembangun komunitas.",
+    "contextHeading": "Sektor kesehatan Indonesia terus berkembang",
+    "contextText": "BMUHealthcare percaya bahwa masa depan adalah milik institusi yang dibangun di atas fondasi yang kuat, tata kelola yang bertanggung jawab, keunggulan operasional, dan komitmen jangka panjang. Dalam dekade mendatang, kami bercita-cita untuk menjadi salah satu platform pengembangan layanan kesehatan terkemuka di Indonesia dan mitra pilihan bagi organisasi yang mencari pertumbuhan layanan kesehatan yang berkelanjutan. Karena institusi kesehatan bukan sekadar bisnis. Mereka adalah institusi yang membentuk komunitas dari generasi ke generasi."
+  },
+  "philosophy": {
+    "label": "Filosofi Kami:",
+    "heading": "Membangun Institusi yang Berkelanjutan",
+    "text": "Di BMU Healthcare, kami percaya bahwa organisasi layanan kesehatan yang paling kuat dibangun melalui visi, kepemimpinan, dan komitmen jangka panjang—bukan sekadar investasi modal. Organisasi layanan kesehatan yang sukses mewakili lebih dari sekadar investasi finansial. Mereka membutuhkan visi, kepemimpinan, keunggulan operasional, dan komitmen jangka panjang untuk melayani komunitas. Pendekatan kami menggabungkan investasi strategis dengan pengembangan aktif, memastikan rumah sakit dan klinik yang kami bangun tidak hanya berkelanjutan secara finansial tetapi juga mampu memberikan dampak yang bermakna dan bertahan lama."
+  },
+  "team": {
+    "amiraName": "Amira Ganis",
+    "amiraTitle": "Pendiri",
+    "amiraBio": [
+      "Amira Ganis adalah seorang wirausahawan kesehatan, pemimpin bisnis, dan pembangun institusi yang kariernya telah didedikasikan untuk memajukan layanan kesehatan di Indonesia.",
+      "Sebagai pendiri Brawijaya Healthcare Group, ia telah memainkan peran penting dalam mengubah satu institusi layanan kesehatan menjadi jaringan rumah sakit dan fasilitas kesehatan yang terus berkembang. Filosofi kepemimpinannya didasarkan pada keyakinan bahwa layanan kesehatan yang luar biasa dibangun di atas perpaduan keunggulan manajemen, kualitas medis, dan fokus tak tergoyahkan pada perawatan yang berpusat pada pasien.",
+      "Sepanjang kariernya, Amira telah memperjuangkan reformasi layanan kesehatan yang berpusat pada pasien yang menggabungkan fondasi bisnis yang kuat dengan tujuan institusional yang kuat. Ia percaya bahwa institusi kesehatan yang bertahan lama bukan sekadar bisnis—mereka dibangun melalui kepercayaan, keunggulan operasional, dan komitmen untuk menciptakan dampak di luar hasil finansial."
+    ],
+    "misyalName": "Misyal Bahwal",
+    "misyalTitle": "Pendiri",
+    "misyalBio": [
+      "Misyal Bahwal adalah pemimpin bisnis strategis dan wirausahawan dengan pengalaman luas dalam investasi, pengembangan institusional, dan transformasi bisnis.",
+      "Sebagai salah satu pendiri Brawijaya Healthcare Group, ia telah berperan penting dalam membentuk arah strategis, kerangka tata kelola, dan lintasan pertumbuhan jangka panjang organisasi. Keahliannya terletak pada mengidentifikasi peluang, membangun institusi modern, dan menciptakan ekosistem layanan kesehatan yang menghasilkan nilai bagi pasien dan komunitas.",
+      "Melalui BMU Healthcare, Misyal berfokus pada pengembangan usaha layanan kesehatan yang menggabungkan fondasi bisnis yang kuat dengan tujuan institusional yang kuat. Ia percaya bahwa institusi kesehatan yang bertahan lama bukan sekadar bisnis—mereka dibangun melalui kepercayaan, keunggulan operasional, dan komitmen untuk menciptakan dampak di luar hasil finansial."
+    ]
+  },
+  "contactForm": {
+    "label": "hubungi kami",
+    "heading": "sebuah pertanyaan, sebuah ide",
+    "name": "Nama",
+    "email": "Email",
+    "messageTitle": "Judul Pesan",
+    "message": "Pesan",
+    "uploadFile": "Unggah File",
+    "privacy": "Saya setuju dengan Kebijakan Privasi",
+    "send": "kirim"
+  },
+  "contactInfo": {
+    "heading": "HUBUNGI KAMI"
+  }
+}

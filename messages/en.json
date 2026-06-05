@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "HOME",
+    "about": "ABOUT US",
+    "milestone": "MILESTONE",
+    "team": "TEAM",
+    "contact": "CONTACT"
+  },
+  "hero": {
+    "title": "Building Healthcare Institutions That Last",
+    "description": "BMUHealthcare is a healthcare development platform dedicated to creating, developing, operating, and scaling healthcare businesses in Indonesia. Our seasoned team has decades of combined experience deeply dedicated to building healthcare organizations from concept and blueprint to operations and growth—creating institutions that generate lasting value for patients, healthcare professionals, and communities.",
+    "cta": "Learn More",
+    "stat1Number": "20+",
+    "stat1Label": "YEARS",
+    "stat1Sub": "Experience",
+    "stat2Number": "3000+",
+    "stat2Sub": "Healthcare Professionals Supported",
+    "stat3Number": "500+",
+    "stat3Sub": "Healthcare Facilities",
+    "stat4Title": "End to End",
+    "stat4Sub": "Healthcare Development Expertise"
+  },
+  "about": {
+    "heading": "Our Journey",
+    "p1": "BMU Healthcare was founded on a simple belief: great healthcare institutions are built—not merely acquired. This founding conviction has shaped our approach to investing, developing, and partnering with healthcare facilities.",
+    "p2": "Over the following two decades, BMU Healthcare's founders played a leading role in developing, managing, and growing some of Indonesia's most recognized hospitals and healthcare facilities. Their work helped lay the institutional foundations for what would become a growing network of patient-focused healthcare institutions.",
+    "p3": "A formalized investment subsidiary was launched in 2021. BMU Healthcare was established as a dedicated vehicle for bringing the founding team's decades of operational and organizational expertise to the broader healthcare investment sector. Since then, BMU Healthcare has emerged as a company that combines investment capital with active institutional development—creating hospitals and clinics that are not only financially sustainable but genuinely built to serve."
+  },
+  "vision": {
+    "visionHeading": "Vision",
+    "visionText": "To become Indonesia's leading healthcare development platform and the preferred partner for independent healthcare institutions.",
+    "missionHeading": "Mission",
+    "missionText": "To help healthcare founders, hospital owners, investors, and healthcare organizations transcend vision into reality through development expertise, strategic partnership, hands-on assistance, and an ecosystem of experts, practitioners, and community builders.",
+    "contextHeading": "Indonesia's healthcare sector continues to evolve",
+    "contextText": "BMUHealthcare believes the future belongs to institutions built on strong foundations, responsible governance, operational excellence, and long-term commitment. Over the next decade, we aspire to become one of Indonesia's leading healthcare development platforms and the partner of choice for organizations seeking sustainable healthcare growth. Because healthcare institutions are not simply businesses. They are institutions that shape communities for generations."
+  },
+  "philosophy": {
+    "label": "Our Philosophy:",
+    "heading": "Building Institution that Last",
+    "text": "At BMU Healthcare, we believe that the strongest healthcare organizations are built through vision, leadership and long-term commitment—not simply capital investment. Successful healthcare organizations represent more than financial investments. They require vision, leadership, operational excellence and a long-term commitment to serving communities. Our approach combines strategic investment with active development, ensuring the hospitals and clinics we build are not only financially sustainable but also capable of delivering meaningful and lasting impact."
+  },
+  "team": {
+    "amiraName": "Amira Ganis",
+    "amiraTitle": "Founder",
+    "amiraBio": [
+      "Amira Ganis is a healthcare entrepreneur, business leader, and institution builder whose career has been dedicated to advancing healthcare services in Indonesia.",
+      "As the founder of Brawijaya Healthcare Group, she has played a pivotal role in transforming a single healthcare institution into a growing network of hospitals and healthcare facilities. Her leadership philosophy is rooted in the belief that exceptional healthcare is built on the convergence of management excellence, medical quality and an unwavering focus on patient-centered care.",
+      "Throughout her career, Amira has championed patient-centered healthcare reforms that combine sound business fundamentals with strong institutional purpose. She believes that enduring healthcare institutions are not simply businesses—they are built through trust, operational excellence, and a commitment to creating impact beyond financial returns."
+    ],
+    "misyalName": "Misyal Bahwal",
+    "misyalTitle": "Founder",
+    "misyalBio": [
+      "Misyal Bahwal is a strategic business leader and entrepreneur with extensive experience in investment, institutional development, and business transformation.",
+      "As a co-founder of Brawijaya Healthcare Group, he has been instrumental in shaping the organization's strategic direction, governance framework, and long-term growth trajectory. His expertise lies in identifying opportunities, building modern institutions, and creating healthcare ecosystems that generate value for patients and communities alike.",
+      "Through BMU Healthcare, Misyal focuses on developing healthcare ventures that combine sound business fundamentals with strong institutional purpose. He believes that enduring healthcare institutions are not simply businesses—they are built through trust, operational excellence, and a commitment to creating impact beyond financial returns."
+    ]
+  },
+  "contactForm": {
+    "label": "contact us",
+    "heading": "a question, an idea",
+    "name": "Name",
+    "email": "E-mail",
+    "messageTitle": "Message title",
+    "message": "Message",
+    "uploadFile": "Upload file",
+    "privacy": "I agree to the Privacy Policy",
+    "send": "send"
+  },
+  "contactInfo": {
+    "heading": "CONTACT US"
+  }
+}

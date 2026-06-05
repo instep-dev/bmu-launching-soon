@@ -8,7 +8,7 @@ function PhotoWithShadow({ src, alt, className = "" }: { src: string; alt: strin
       <div className="relative z-10 w-full h-[220px] sm:h-[260px] md:h-[300px] rounded-md overflow-hidden">
         <Image src={src} alt={alt} fill className="object-cover object-top" />
       </div>
-      <Image alt="" fill className="absolute inset-0 " src={'/SHADOW PHOTO.PNG'}/>
+      <Image alt="" fill className="absolute inset-0 " src={'/SHADOW PHOTO.png'}/>
     </div>
   );
 }

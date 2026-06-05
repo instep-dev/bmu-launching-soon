@@ -18,7 +18,7 @@ export default function PhilosophySection() {
               className="object-cover"
             />
           </div>
-          <Image alt="" fill className="absolute inset-0" src={'/SHADOW PHOTO.PNG'} />
+          <Image alt="" fill className="absolute inset-0" src={'/SHADOW PHOTO.png'} />
         </div>
 
         {/* Right: text */}

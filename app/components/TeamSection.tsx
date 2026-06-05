@@ -38,7 +38,7 @@ function TeamMember({
               className="object-cover object-top"
             />
           </div>
-          <Image alt="" fill className="absolute inset-0" src={'/SHADOW PHOTO.PNG'} />
+          <Image alt="" fill className="absolute inset-0" src={'/SHADOW PHOTO.png'} />
         </div>
         <div className="mt-5 flex flex-col items-center text-center">
           <p className="text-[22px] md:text-[26px] font-bold text-[#3dc4be]">{name}</p>

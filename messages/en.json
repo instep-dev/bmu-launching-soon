@@ -3,6 +3,7 @@
     "home": "HOME",
     "about": "ABOUT US",
     "team": "TEAM",
+    "articles": "ARTICLES",
     "contact": "CONTACT"
   },
   "hero": {
@@ -44,20 +45,93 @@
     "text": "At BMU Healthcare, we believe that the strongest healthcare organizations are built through vision, leadership, and long-term commitment—not simply capital investment. Successful healthcare organizations require more than financial investment. They require vision, leadership, operational excellence, and a long-term commitment to serving communities. Our approach combines strategic investment with active development, ensuring that healthcare institutions are not only financially sustainable, but also capable of delivering meaningful and lasting impact."
   },
   "team": {
-    "sectionHeading": "Who We Are",
+    "sectionHeading": "A Word from the Founder",
     "amiraName": "Amira Ganis",
     "amiraTitle": "Founder",
+    "amiraQuote": "Healthcare is entering a new era—one that extends far beyond the walls of hospitals.",
     "amiraBio": [
-      "Amira Ganis is a healthcare entrepreneur, business leader, and institution builder whose career has been dedicated to advancing healthcare services in Indonesia.",
-      "As the founder of Brawijaya Healthcare Group, she has played a pivotal role in transforming a single healthcare venture into a growing network of hospitals and healthcare facilities. Her leadership philosophy is rooted in the belief that exceptional healthcare is built on the intersection of compassion, operational excellence, and continuous innovation.",
-      "Throughout her career, Amira has championed patient-centered healthcare, organizational growth, and the development of sustainable healthcare institutions. Through BMU Healthcare, she continues to support initiatives that expand access to quality healthcare while creating long-term value for stakeholders and communities alike."
-    ],
-    "misyalName": "Misyal Bahwal",
-    "misyalTitle": "Founder",
-    "misyalBio": [
-      "Misyal Bahwal is a strategic business leader and entrepreneur with extensive experience in investment, institutional development, and business transformation.",
-      "As a co-founder of Brawijaya Healthcare Group, he has been instrumental in shaping the organization's strategic direction, governance framework, and long-term growth trajectory. His expertise lies in identifying opportunities, building resilient organizations, and creating partnerships that unlock sustainable value.",
-      "Through BMU Healthcare, Misyal focuses on developing healthcare ventures that combine sound business fundamentals with strong institutional purpose. He believes that enduring healthcare organizations are built through disciplined execution, responsible governance, and a commitment to creating impact beyond financial returns."
+      "The future of healthcare is no longer defined solely by buildings, beds, or facilities. It is about creating a connected healthcare ecosystem that enables people to stay healthy, age well, and access the right care at the right time—wherever they are.",
+      "After spending more than two decades building and growing a hospital network, I have come to see healthcare from a much broader perspective. I believe the future is not about building a single hospital or a single healthcare brand. It is about strengthening the ecosystem as a whole—connecting providers, empowering healthcare leaders, and creating sustainable healthcare businesses that can thrive in a rapidly evolving world.",
+      "Through BMU Healthcare, we are moving beyond hospital development. We are committed to building healthcare businesses, developing healthcare leaders, and supporting the growth of a stronger healthcare ecosystem by providing access to strategic expertise, capital, partnerships, and long-term institutional guidance.",
+      "At BMU Healthcare, we believe that meaningful healthcare transformation requires more than investment. It requires vision, trust, and the courage to build for generations.",
+      "And this is only the beginning."
+    ]
+  },
+  "articles": {
+    "pageTitle": "Articles & Insights",
+    "items": [
+      {
+        "id": 1,
+        "slug": "amira-ganis-tatler-asia-2026",
+        "title": "Amira Ganis: Indonesia's Influential Healthcare Leader",
+        "excerpt": "Tatler Asia profiles Amira Ganis, President Director of Brawijaya Healthcare Group, as one of Indonesia's most influential female healthcare leaders.",
+        "content": "Amira Ganis is recognized as one of Indonesia's most influential female healthcare leaders. As President Director of Brawijaya Healthcare Group, she has overseen the organization's transformation from a maternal and child specialty hospital into a comprehensive healthcare network meeting international standards. Her story is one of vision, persistence, and a deep conviction that healthcare should feel human.\n\nHer leadership philosophy centers on \"Hospitality with a Heart\"—merging professional medical standards with compassionate, personalized care. This philosophy has shaped every dimension of Brawijaya Healthcare's growth, from the design of its hospital environments to the training of its clinical and service staff. The result is a network that patients describe not as a place they fear, but a place they trust.\n\nUnder her direction, the organization has built specialized centers ranging from women's health and reproductive care to advanced clinical services, all grounded in a commitment to patient dignity and comfort. Brawijaya Healthcare now operates multiple hospitals and clinics, each maintaining the founding ethos that exceptional care is built on the intersection of medical excellence and genuine human connection.\n\nTatler Asia's Front & Female 2026 feature highlights Amira as a defining figure in Indonesia's healthcare evolution—a leader who understands that the future of healthcare lies not only in medical expertise, but in the quality of relationships that institutions build with the communities they serve.",
+        "date": "2026-03-11",
+        "author": "Tatler Asia",
+        "source": "Tatler Asia",
+        "sourceUrl": "https://www.tatlerasia.com/people/amira-ganis-id",
+        "category": "Leadership"
+      },
+      {
+        "id": 2,
+        "slug": "brawijaya-hospital-building-patient-trust",
+        "title": "How Brawijaya Hospital Builds Patient Trust",
+        "excerpt": "Brawijaya Healthcare's President Director outlines how transparency, clear communication, and patient-centered care are the foundation of lasting trust in Indonesia's healthcare sector.",
+        "content": "In an interview with CNBC Indonesia, Amira Ganis—President Director of Brawijaya Healthcare—addressed one of the most persistent challenges in Indonesia's healthcare system: building genuine trust between patients and providers. She argued that trust cannot be assumed; it must be actively earned through transparency, communication, and placing patient interests above all else.\n\nShe observed that many healthcare providers focus heavily on clinical symptoms while overlooking the emotional dimension of the patient experience. Patients often feel confused about their diagnoses, uncertain about their treatment timelines, and excluded from decisions about their own health. Brawijaya Hospital has worked to change this by implementing a model that actively involves patients in their care journey.\n\nThe approach mirrors international best practices, where patients receive clear explanations of symptoms, diagnoses, treatment options, and expected timelines. \"When patients understand what is happening to their bodies and why certain decisions are being made, they become partners in their own recovery,\" Amira explained. This shift from a paternalistic model to a collaborative one is, she believes, at the core of building lasting doctor-patient relationships.\n\nThe result is not only higher patient satisfaction but measurably better health outcomes. When people trust their providers, they are more likely to follow through on treatment plans, return for follow-up care, and recommend the hospital to family and friends—creating a virtuous cycle of trust that sustains the institution for the long term.",
+        "date": "2024-11-20",
+        "author": "Khoirul Anam",
+        "source": "CNBC Indonesia",
+        "sourceUrl": "https://www.cnbcindonesia.com/news/20241120172717-4-589790/simak-begini-cara-brawijaya-hospital-bangun-kepercayaan-pasien",
+        "category": "Healthcare"
+      },
+      {
+        "id": 3,
+        "slug": "amira-ganis-ey-winning-women-2025",
+        "title": "EY Entrepreneurial Winning Women™ Asia-Pacific 2025: Amira Ganis",
+        "excerpt": "Ernst & Young recognizes Amira Ganis as part of the EY Entrepreneurial Winning Women™ Asia-Pacific Class of 2025 for her transformative leadership at Brawijaya Healthcare.",
+        "content": "Ernst & Young has named Amira Ganis to the EY Entrepreneurial Winning Women™ Asia-Pacific Class of 2025, recognizing her as a transformative force in Indonesia's healthcare industry. The program celebrates high-potential women entrepreneurs whose businesses have demonstrated exceptional growth and whose leadership is redefining their sectors.\n\nAmira's entrepreneurial journey began nearly two decades ago with a single hospital in Jakarta aimed at providing specialized care for women and children. Today, the Brawijaya Healthcare network encompasses five hospitals and one clinic, with plans for continued expansion. The group's specialized centers—ranging from women's health to aesthetic and wellness services—reflect a strategic vision built around patient-centered innovation.\n\nThe network operates under a set of core values known as HEART: Hospitality, Excellence, Agility, Reliability, and Teamwork. These values are not aspirational slogans but operational commitments embedded in how every team member approaches patient care. This cultural foundation has earned Brawijaya Healthcare recognition including the CNBC Indonesia Award 2024 for Outstanding Technology-Driven Service for Hospital Heart Care.\n\nBeyond her professional achievements, Amira's recognition reflects her contribution to a broader shift in how Indonesia's healthcare sector approaches leadership. As a mother of four with a background in business administration from Northeastern University Boston, she brings both the rigor of strategic management and the lived perspective of a patient and caregiver—a combination that defines her uniquely human approach to building healthcare institutions.",
+        "date": "2025-01-15",
+        "author": "Ernst & Young",
+        "source": "Ernst & Young",
+        "sourceUrl": "https://www.ey.com/en_id/entrepreneurial-winning-women-asia-pacific/class-of-2025/amira-ganis",
+        "category": "Recognition"
+      },
+      {
+        "id": 4,
+        "slug": "amira-ganis-woman-behind-brawijaya",
+        "title": "Amira Ganis: The Woman Behind Brawijaya Hospital's Success",
+        "excerpt": "A profile of Amira Ganis—mother of four, EY award winner, and President Director of Brawijaya Healthcare—whose vision transformed a single Jakarta hospital into a network of seven branches.",
+        "content": "Amira Ganis was not always the name behind one of Indonesia's most respected hospital networks. Born in 1976, she studied Business Administration at the University of Indonesia before earning an MBA from Northeastern University in Boston in 2002. Her path into healthcare was shaped as much by family as by education—her father, Ahmad Ganis, had a long history of supporting doctors through difficult times, including helping approximately 63 physicians resolve financial challenges during the 1998 economic crisis.\n\nWhen Brawijaya Hospital was founded, Amira brought with her a conviction that hospitals didn't have to feel cold, sterile, or frightening. She wanted to build environments where people felt welcomed—where the space itself communicated care. This meant investing in aesthetics, comfort, and atmosphere as much as in clinical infrastructure. The result was a hospital that patients described not as a place they dreaded, but one they trusted.\n\nToday, as President Director of Brawijaya Healthcare Group, Amira oversees a network of seven hospital branches. Her approach to relationships—whether with patients, doctors, or partner institutions—is rooted in the idea that harmony and mutual respect are not soft values, but strategic foundations. The strong ties she has maintained with physician partners throughout the organization's growth have been central to its stability and reputation.\n\nAmira's recognition as part of the Ernst & Young Entrepreneurial Winning Women Asia-Pacific Class of 2025 has brought international attention to her leadership. But for her, the work remains deeply personal—a mother of four who continues to be guided by a belief that excellent healthcare is, at its core, an act of human care.",
+        "date": "2025-04-06",
+        "author": "Liputan6",
+        "source": "Liputan6",
+        "sourceUrl": "https://www.liputan6.com/regional/read/5986336/amira-ganis-perempuan-di-balik-kesuksesan-rumah-sakit-brawijaya",
+        "category": "Healthcare"
+      },
+      {
+        "id": 5,
+        "slug": "hospital-sustaining-indonesia-healthcare",
+        "title": "Behind Indonesia's Healthcare System: Hospitals That Sustain the Majority of Services",
+        "excerpt": "A closer look at how private hospitals play a critical and often overlooked role in sustaining Indonesia's healthcare delivery, filling gaps where public infrastructure cannot yet reach.",
+        "content": "Indonesia's healthcare system is often discussed in terms of policy, funding, and national insurance coverage. Yet behind the statistics and government frameworks, a quieter story unfolds: the critical role that private hospitals play in sustaining the majority of healthcare services delivered across the country.\n\nHospitals like Brawijaya Healthcare Group operate at the intersection of business sustainability and public health responsibility. They absorb patient demand that public facilities cannot always meet, recruit and retain medical specialists who might otherwise work abroad, and invest in clinical technologies that raise the standard of care across the sector as a whole.\n\nThe relationship between private hospital networks and the broader health system is not competitive—it is complementary. When private institutions are well-governed, financially sustainable, and mission-driven, they strengthen the entire ecosystem. They train future healthcare leaders, provide employment for thousands of clinical and administrative staff, and serve as models of operational excellence that can be studied and replicated.\n\nIndonesia's healthcare sector faces significant challenges in the decades ahead: a growing aging population, rising non-communicable disease burdens, and increasing patient expectations. Private hospitals that have built strong institutional foundations are uniquely positioned to help the country navigate these transitions—not simply as businesses, but as long-term partners in national health.",
+        "date": "2024-06-15",
+        "author": "Media Indonesia",
+        "source": "Media Indonesia",
+        "sourceUrl": "https://mediaindonesia.com/humaniora/881935/di-balik-sistem-kesehatan-ri-ada-rumah-sakit-yang-menopang-mayoritas-layanan",
+        "category": "Industry"
+      },
+      {
+        "id": 6,
+        "slug": "amira-ganis-empathy-patients",
+        "title": "Amira Ganis: Empathy at the Heart of Patient Care",
+        "excerpt": "Media Indonesia profiles how Amira Ganis leads Brawijaya Healthcare with empathy as a core organizational value—transforming patient experiences and shaping a culture of compassionate care.",
+        "content": "At the center of Amira Ganis's approach to leading Brawijaya Healthcare is a principle she considers non-negotiable: empathy. For Amira, empathy is not a soft complement to clinical competence—it is a foundational requirement for delivering healthcare that truly serves people.\n\nShe has observed over the course of her career that the moments patients feel most vulnerable are precisely the moments when most healthcare interactions feel most transactional. A diagnosis delivered without explanation, a treatment begun without discussion, a discharge processed without regard for a patient's anxiety—these are the moments that erode trust and leave patients feeling invisible. Brawijaya Healthcare has sought to train its staff to recognize and respond to these moments differently.\n\nThis means clinicians who take time to explain not just what is happening medically, but why it matters and what to expect. It means administrative staff who greet patients with warmth and remember that behind every registration form is a person who is worried, hopeful, or in pain. It means designing institutional processes around the patient's experience rather than around operational convenience.\n\nFor Amira, the long-term impact of this approach is measurable. Institutions that lead with empathy build patient loyalty that outlasts any marketing campaign. They attract doctors who value working in an environment that respects both patients and practitioners. And they contribute to a culture of healthcare that, over time, improves outcomes—not just for individual patients, but for the communities and generations that depend on them.",
+        "date": "2024-09-10",
+        "author": "Media Indonesia",
+        "source": "Media Indonesia",
+        "sourceUrl": "https://epaper.mediaindonesia.com/detail/amira-ganis-prioritaskan-empati-kepada-pasien",
+        "category": "Leadership"
+      }
     ]
   },
   "contactForm": {

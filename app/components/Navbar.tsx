@@ -6,10 +6,11 @@ import { motion, AnimatePresence, useSpring, useScroll } from "framer-motion";
 import { useTranslations } from "@/app/i18n/TranslationsContext";
 
 const NAV_LINK_KEYS = [
-  { key: "home", id: "home" },
-  { key: "about", id: "about" },
-  { key: "team", id: "team" },
-  { key: "contact", id: "contact" },
+  { key: "home", id: "home", page: null },
+  { key: "about", id: "about", page: null },
+  { key: "team", id: "team", page: null },
+  { key: "articles", id: "articles", page: "articles" },
+  { key: "contact", id: "contact", page: null },
 ];
 
 export default function Navbar() {
@@ -108,12 +109,13 @@ export default function Navbar() {
 
         {/* Desktop Nav links + language switcher */}
         <div className="hidden md:flex items-center gap-6 lg:gap-9">
-          {NAV_LINK_KEYS.map(({ key, id }) => {
-            const isActive = activeSection === id;
+          {NAV_LINK_KEYS.map(({ key, id, page }) => {
+            const isActive = page ? false : activeSection === id;
+            const href = page ? `/${locale}/${page}` : `#${id}`;
             return (
               <motion.a
                 key={id}
-                href={`#${id}`}
+                href={href}
                 className="font-medium transition-colors text-sm lg:text-base"
                 style={{ letterSpacing: "0.06em" }}
                 animate={{
@@ -225,12 +227,13 @@ export default function Navbar() {
             className="md:hidden overflow-hidden"
           >
             <div className="px-6 pb-5 flex flex-col gap-4 border-t border-white/20">
-              {NAV_LINK_KEYS.map(({ key, id }) => {
-                const isActive = activeSection === id;
+              {NAV_LINK_KEYS.map(({ key, id, page }) => {
+                const isActive = page ? false : activeSection === id;
+                const href = page ? `/${locale}/${page}` : `#${id}`;
                 return (
                   <a
                     key={id}
-                    href={`#${id}`}
+                    href={href}
                     onClick={() => setMenuOpen(false)}
                     className="font-medium text-sm py-1"
                     style={{

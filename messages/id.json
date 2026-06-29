@@ -3,6 +3,7 @@
     "home": "BERANDA",
     "about": "TENTANG KAMI",
     "team": "TIM",
+    "articles": "ARTIKEL",
     "contact": "KONTAK"
   },
   "hero": {
@@ -44,20 +45,93 @@
     "text": "Di BMU Healthcare, kami percaya bahwa organisasi layanan kesehatan yang paling kuat dibangun melalui visi, kepemimpinan, dan komitmen jangka panjang—bukan sekadar investasi modal. Organisasi layanan kesehatan yang sukses mewakili lebih dari sekadar investasi finansial. Mereka membutuhkan visi, kepemimpinan, keunggulan operasional, dan komitmen jangka panjang untuk melayani komunitas. Pendekatan kami menggabungkan investasi strategis dengan pengembangan aktif, memastikan rumah sakit dan klinik yang kami bangun tidak hanya berkelanjutan secara finansial tetapi juga mampu memberikan dampak yang bermakna dan bertahan lama."
   },
   "team": {
-    "sectionHeading": "Siapa Kami",
+    "sectionHeading": "Pesan dari Pendiri",
     "amiraName": "Amira Ganis",
     "amiraTitle": "Pendiri",
+    "amiraQuote": "Layanan kesehatan memasuki era baru—satu era yang jauh melampaui dinding-dinding rumah sakit.",
     "amiraBio": [
-      "Amira Ganis adalah seorang wirausahawan kesehatan, pemimpin bisnis, dan pembangun institusi yang kariernya telah didedikasikan untuk memajukan layanan kesehatan di Indonesia.",
-      "Sebagai pendiri Brawijaya Healthcare Group, ia telah memainkan peran penting dalam mengubah satu institusi layanan kesehatan menjadi jaringan rumah sakit dan fasilitas kesehatan yang terus berkembang. Filosofi kepemimpinannya didasarkan pada keyakinan bahwa layanan kesehatan yang luar biasa dibangun di atas perpaduan keunggulan manajemen, kualitas medis, dan fokus tak tergoyahkan pada perawatan yang berpusat pada pasien.",
-      "Sepanjang kariernya, Amira telah memperjuangkan reformasi layanan kesehatan yang berpusat pada pasien yang menggabungkan fondasi bisnis yang kuat dengan tujuan institusional yang kuat. Ia percaya bahwa institusi kesehatan yang bertahan lama bukan sekadar bisnis—mereka dibangun melalui kepercayaan, keunggulan operasional, dan komitmen untuk menciptakan dampak di luar hasil finansial."
-    ],
-    "misyalName": "Misyal Bahwal",
-    "misyalTitle": "Pendiri",
-    "misyalBio": [
-      "Misyal Bahwal adalah pemimpin bisnis strategis dan wirausahawan dengan pengalaman luas dalam investasi, pengembangan institusional, dan transformasi bisnis.",
-      "Sebagai salah satu pendiri Brawijaya Healthcare Group, ia telah berperan penting dalam membentuk arah strategis, kerangka tata kelola, dan lintasan pertumbuhan jangka panjang organisasi. Keahliannya terletak pada mengidentifikasi peluang, membangun institusi modern, dan menciptakan ekosistem layanan kesehatan yang menghasilkan nilai bagi pasien dan komunitas.",
-      "Melalui BMU Healthcare, Misyal berfokus pada pengembangan usaha layanan kesehatan yang menggabungkan fondasi bisnis yang kuat dengan tujuan institusional yang kuat. Ia percaya bahwa institusi kesehatan yang bertahan lama bukan sekadar bisnis—mereka dibangun melalui kepercayaan, keunggulan operasional, dan komitmen untuk menciptakan dampak di luar hasil finansial."
+      "Masa depan layanan kesehatan tidak lagi didefinisikan semata-mata oleh gedung, tempat tidur, atau fasilitas. Ini tentang membangun ekosistem kesehatan yang terhubung sehingga orang dapat tetap sehat, menua dengan baik, dan mengakses layanan yang tepat pada waktu yang tepat—di mana pun mereka berada.",
+      "Setelah lebih dari dua dekade membangun dan mengembangkan jaringan rumah sakit, saya mulai melihat layanan kesehatan dari perspektif yang jauh lebih luas. Saya percaya masa depan bukan tentang membangun satu rumah sakit atau satu merek layanan kesehatan. Ini tentang memperkuat ekosistem secara keseluruhan—menghubungkan penyedia layanan, memberdayakan pemimpin kesehatan, dan menciptakan bisnis layanan kesehatan yang berkelanjutan dalam dunia yang terus berkembang.",
+      "Melalui BMU Healthcare, kami bergerak melampaui pengembangan rumah sakit. Kami berkomitmen untuk membangun bisnis layanan kesehatan, mengembangkan pemimpin di bidang kesehatan, dan mendukung pertumbuhan ekosistem kesehatan yang lebih kuat dengan menyediakan akses ke keahlian strategis, modal, kemitraan, dan panduan institusional jangka panjang.",
+      "Di BMU Healthcare, kami percaya bahwa transformasi layanan kesehatan yang bermakna membutuhkan lebih dari sekadar investasi. Diperlukan visi, kepercayaan, dan keberanian untuk membangun demi generasi mendatang.",
+      "Dan ini baru permulaan."
+    ]
+  },
+  "articles": {
+    "pageTitle": "Artikel & Wawasan",
+    "items": [
+      {
+        "id": 1,
+        "slug": "amira-ganis-tatler-asia-2026",
+        "title": "Amira Ganis: Pemimpin Kesehatan Berpengaruh dari Indonesia",
+        "excerpt": "Tatler Asia menampilkan Amira Ganis, Presiden Direktur Brawijaya Healthcare Group, sebagai salah satu pemimpin perempuan di bidang kesehatan yang paling berpengaruh di Indonesia.",
+        "content": "Amira Ganis diakui sebagai salah satu pemimpin perempuan di bidang kesehatan yang paling berpengaruh di Indonesia. Sebagai Presiden Direktur Brawijaya Healthcare Group, ia telah mengawasi transformasi organisasi dari rumah sakit spesialis ibu dan anak menjadi jaringan layanan kesehatan komprehensif yang memenuhi standar internasional. Kisahnya adalah tentang visi, ketekunan, dan keyakinan mendalam bahwa layanan kesehatan seharusnya terasa manusiawi.\n\nFilosofi kepemimpinannya berpusat pada \"Hospitality with a Heart\"—memadukan standar medis profesional dengan perawatan yang penuh kasih dan berpusat pada pasien. Filosofi ini telah membentuk setiap dimensi pertumbuhan Brawijaya Healthcare, mulai dari desain lingkungan rumah sakit hingga pelatihan staf klinis dan layanan. Hasilnya adalah jaringan yang digambarkan pasien bukan sebagai tempat yang mereka takuti, tetapi tempat yang mereka percayai.\n\nDi bawah kepemimpinannya, organisasi telah membangun pusat-pusat layanan unggulan mulai dari kesehatan wanita dan perawatan reproduksi hingga layanan klinis lanjutan, semuanya didasari komitmen terhadap martabat dan kenyamanan pasien. Brawijaya Healthcare kini mengoperasikan beberapa rumah sakit dan klinik, masing-masing mempertahankan etos pendiri bahwa perawatan terbaik dibangun di persimpangan keunggulan medis dan koneksi manusia yang tulus.\n\nTatler Asia menyoroti Amira sebagai sosok penentu dalam evolusi layanan kesehatan Indonesia—seorang pemimpin yang memahami bahwa masa depan layanan kesehatan tidak hanya terletak pada keahlian medis, tetapi juga pada kualitas hubungan yang dibangun institusi dengan komunitas yang mereka layani.",
+        "date": "2026-03-11",
+        "author": "Tatler Asia",
+        "source": "Tatler Asia",
+        "sourceUrl": "https://www.tatlerasia.com/people/amira-ganis-id",
+        "category": "Kepemimpinan"
+      },
+      {
+        "id": 2,
+        "slug": "brawijaya-hospital-building-patient-trust",
+        "title": "Begini Cara Brawijaya Hospital Bangun Kepercayaan Pasien",
+        "excerpt": "Presiden Direktur Brawijaya Healthcare menjelaskan pentingnya transparansi dan komunikasi yang jelas dalam membangun kepercayaan jangka panjang di sektor kesehatan Indonesia.",
+        "content": "Dalam wawancara dengan CNBC Indonesia, Amira Ganis—Presiden Direktur Brawijaya Healthcare—membahas salah satu tantangan paling mendasar dalam sistem kesehatan Indonesia: membangun kepercayaan sejati antara pasien dan penyedia layanan. Ia berargumen bahwa kepercayaan tidak bisa diasumsikan begitu saja; kepercayaan harus secara aktif dibangun melalui transparansi, komunikasi, dan mengutamakan kepentingan pasien di atas segalanya.\n\nIa mengamati bahwa banyak penyedia layanan kesehatan terlalu fokus pada gejala klinis sambil mengabaikan dimensi emosional dari pengalaman pasien. Pasien sering merasa bingung tentang diagnosis mereka, tidak yakin tentang jadwal pengobatan, dan terkecualikan dari keputusan tentang kesehatan mereka sendiri. Brawijaya Hospital telah berupaya mengubah ini dengan menerapkan model yang secara aktif melibatkan pasien dalam perjalanan perawatan mereka.\n\nPendekatan ini mencerminkan praktik terbaik internasional, di mana pasien menerima penjelasan yang jelas tentang gejala, diagnosis, pilihan pengobatan, dan perkiraan waktu. \"Ketika pasien memahami apa yang terjadi pada tubuh mereka dan mengapa keputusan tertentu dibuat, mereka menjadi mitra dalam pemulihan mereka sendiri,\" jelas Amira. Pergeseran dari model paternalistik ke model kolaboratif ini, ia yakini, adalah inti dari membangun hubungan dokter-pasien yang berkelanjutan.\n\nHasilnya bukan hanya kepuasan pasien yang lebih tinggi tetapi juga hasil kesehatan yang lebih baik secara terukur. Ketika orang mempercayai penyedia layanan mereka, mereka lebih cenderung mengikuti rencana pengobatan, kembali untuk perawatan lanjutan, dan merekomendasikan rumah sakit kepada keluarga dan teman—menciptakan siklus kepercayaan yang berkelanjutan bagi institusi dalam jangka panjang.",
+        "date": "2024-11-20",
+        "author": "Khoirul Anam",
+        "source": "CNBC Indonesia",
+        "sourceUrl": "https://www.cnbcindonesia.com/news/20241120172717-4-589790/simak-begini-cara-brawijaya-hospital-bangun-kepercayaan-pasien",
+        "category": "Kesehatan"
+      },
+      {
+        "id": 3,
+        "slug": "amira-ganis-ey-winning-women-2025",
+        "title": "EY Entrepreneurial Winning Women™ Asia-Pacific 2025: Amira Ganis",
+        "excerpt": "Ernst & Young mengakui Amira Ganis sebagai bagian dari EY Entrepreneurial Winning Women™ Asia-Pacific Class of 2025 atas kepemimpinan transformatifnya di Brawijaya Healthcare.",
+        "content": "Ernst & Young telah menobatkan Amira Ganis sebagai bagian dari EY Entrepreneurial Winning Women™ Asia-Pacific Class of 2025, mengakuinya sebagai kekuatan transformatif dalam industri kesehatan Indonesia. Program ini merayakan wirausahawan perempuan berpotensi tinggi yang bisnisnya telah menunjukkan pertumbuhan luar biasa dan kepemimpinannya mendefinisikan ulang sektor mereka.\n\nPerjalanan wirausaha Amira dimulai hampir dua dekade lalu dengan satu rumah sakit di Jakarta yang bertujuan menyediakan perawatan khusus untuk wanita dan anak-anak. Hari ini, jaringan Brawijaya Healthcare mencakup lima rumah sakit dan satu klinik, dengan rencana ekspansi yang terus berlanjut. Pusat-pusat layanan unggulan kelompok ini—mulai dari kesehatan wanita hingga layanan estetika dan kebugaran—mencerminkan visi strategis yang dibangun di sekitar inovasi berpusat pada pasien.\n\nJaringan ini beroperasi berdasarkan serangkaian nilai inti yang dikenal sebagai HEART: Hospitality, Excellence, Agility, Reliability, dan Teamwork. Nilai-nilai ini bukan slogan aspirasional tetapi komitmen operasional yang tertanam dalam cara setiap anggota tim mendekati perawatan pasien. Fondasi budaya ini telah menghasilkan pengakuan termasuk CNBC Indonesia Award 2024 untuk Outstanding Technology-Driven Service for Hospital Heart Care.\n\nDi luar pencapaian profesionalnya, pengakuan Amira mencerminkan kontribusinya pada pergeseran yang lebih luas dalam cara sektor kesehatan Indonesia mendekati kepemimpinan. Sebagai ibu dari empat anak dengan latar belakang administrasi bisnis dari Northeastern University Boston, ia membawa kekakuan manajemen strategis sekaligus perspektif hidup seorang pasien dan pengasuh—kombinasi yang mendefinisikan pendekatannya yang unik dan manusiawi dalam membangun institusi kesehatan.",
+        "date": "2025-01-15",
+        "author": "Ernst & Young",
+        "source": "Ernst & Young",
+        "sourceUrl": "https://www.ey.com/en_id/entrepreneurial-winning-women-asia-pacific/class-of-2025/amira-ganis",
+        "category": "Penghargaan"
+      },
+      {
+        "id": 4,
+        "slug": "amira-ganis-woman-behind-brawijaya",
+        "title": "Amira Ganis, Perempuan di Balik Kesuksesan Rumah Sakit Brawijaya",
+        "excerpt": "Profil Amira Ganis—ibu empat anak, penerima penghargaan EY, dan Presiden Direktur Brawijaya Healthcare—yang mengubah satu rumah sakit di Jakarta menjadi jaringan tujuh cabang.",
+        "content": "Amira Ganis tidak selalu menjadi nama di balik salah satu jaringan rumah sakit paling dihormati di Indonesia. Lahir pada tahun 1976, ia belajar Administrasi Niaga di Universitas Indonesia sebelum meraih gelar MBA dari Northeastern University di Boston pada tahun 2002. Jalannya ke dunia kesehatan dibentuk sama banyaknya oleh keluarga maupun pendidikan—ayahnya, Ahmad Ganis, memiliki sejarah panjang mendukung para dokter di masa sulit, termasuk membantu sekitar 63 dokter menyelesaikan tantangan keuangan selama krisis ekonomi 1998.\n\nKetika Brawijaya Hospital didirikan, Amira membawa keyakinan bahwa rumah sakit tidak harus terasa dingin, steril, atau menakutkan. Ia ingin membangun lingkungan di mana orang merasa disambut—di mana ruangnya sendiri mengomunikasikan kepedulian. Ini berarti berinvestasi dalam estetika, kenyamanan, dan suasana sebanyak dalam infrastruktur klinis. Hasilnya adalah rumah sakit yang digambarkan pasien bukan sebagai tempat yang mereka cemaskan, tetapi tempat yang mereka percayai.\n\nHari ini, sebagai Presiden Direktur Brawijaya Healthcare Group, Amira mengawasi jaringan tujuh cabang rumah sakit. Pendekatannya terhadap hubungan—baik dengan pasien, dokter, maupun institusi mitra—didasarkan pada gagasan bahwa harmoni dan saling menghormati bukan nilai-nilai yang lemah, tetapi fondasi strategis. Ikatan kuat yang telah ia pertahankan dengan mitra dokter sepanjang pertumbuhan organisasi telah menjadi pusat stabilitas dan reputasinya.\n\nPengakuan Amira sebagai bagian dari Ernst & Young Entrepreneurial Winning Women Asia-Pacific Class of 2025 telah membawa perhatian internasional pada kepemimpinannya. Namun baginya, pekerjaan ini tetap sangat personal—seorang ibu dari empat anak yang terus dibimbing oleh keyakinan bahwa layanan kesehatan yang unggul, pada intinya, adalah tindakan kepedulian manusiawi.",
+        "date": "2025-04-06",
+        "author": "Liputan6",
+        "source": "Liputan6",
+        "sourceUrl": "https://www.liputan6.com/regional/read/5986336/amira-ganis-perempuan-di-balik-kesuksesan-rumah-sakit-brawijaya",
+        "category": "Kesehatan"
+      },
+      {
+        "id": 5,
+        "slug": "hospital-sustaining-indonesia-healthcare",
+        "title": "Di Balik Sistem Kesehatan RI, Ada Rumah Sakit yang Menopang Mayoritas Layanan",
+        "excerpt": "Sebuah tinjauan tentang peran kritis rumah sakit swasta dalam menopang pengiriman layanan kesehatan di Indonesia, mengisi celah di mana infrastruktur publik belum bisa menjangkau.",
+        "content": "Sistem kesehatan Indonesia sering dibahas dalam konteks kebijakan, pendanaan, dan cakupan asuransi nasional. Namun di balik statistik dan kerangka pemerintah, ada cerita yang lebih tenang: peran penting yang dimainkan rumah sakit swasta dalam menopang mayoritas layanan kesehatan yang diberikan di seluruh negeri.\n\nRumah sakit seperti Brawijaya Healthcare Group beroperasi di persimpangan keberlanjutan bisnis dan tanggung jawab kesehatan masyarakat. Mereka menyerap permintaan pasien yang tidak selalu dapat dipenuhi oleh fasilitas publik, merekrut dan mempertahankan spesialis medis yang mungkin bekerja di luar negeri, dan berinvestasi dalam teknologi klinis yang meningkatkan standar perawatan di seluruh sektor.\n\nHubungan antara jaringan rumah sakit swasta dan sistem kesehatan yang lebih luas bukanlah persaingan—melainkan saling melengkapi. Ketika institusi swasta dikelola dengan baik, berkelanjutan secara finansial, dan didorong misi, mereka memperkuat seluruh ekosistem. Mereka melatih pemimpin kesehatan masa depan, menyediakan lapangan kerja bagi ribuan staf klinis dan administratif, dan berfungsi sebagai model keunggulan operasional yang dapat dipelajari dan ditiru.\n\nSektor kesehatan Indonesia menghadapi tantangan signifikan dalam dekade mendatang: populasi yang menua, beban penyakit tidak menular yang meningkat, dan ekspektasi pasien yang semakin tinggi. Rumah sakit swasta yang telah membangun fondasi institusional yang kuat berada dalam posisi unik untuk membantu negara menavigasi transisi ini—bukan sekadar sebagai bisnis, tetapi sebagai mitra jangka panjang dalam kesehatan nasional.",
+        "date": "2024-06-15",
+        "author": "Media Indonesia",
+        "source": "Media Indonesia",
+        "sourceUrl": "https://mediaindonesia.com/humaniora/881935/di-balik-sistem-kesehatan-ri-ada-rumah-sakit-yang-menopang-mayoritas-layanan",
+        "category": "Industri"
+      },
+      {
+        "id": 6,
+        "slug": "amira-ganis-empathy-patients",
+        "title": "Amira Ganis Prioritaskan Empati kepada Pasien",
+        "excerpt": "Media Indonesia menampilkan bagaimana Amira Ganis memimpin Brawijaya Healthcare dengan empati sebagai nilai organisasi utama—mengubah pengalaman pasien dan membentuk budaya perawatan yang penuh kasih.",
+        "content": "Di pusat pendekatan Amira Ganis dalam memimpin Brawijaya Healthcare adalah prinsip yang ia anggap tidak bisa ditawar: empati. Bagi Amira, empati bukan pelengkap lunak dari kompetensi klinis—ini adalah persyaratan mendasar untuk memberikan layanan kesehatan yang benar-benar melayani manusia.\n\nIa mengamati sepanjang kariernya bahwa momen-momen ketika pasien merasa paling rentan adalah justru saat sebagian besar interaksi layanan kesehatan terasa paling transaksional. Diagnosis yang disampaikan tanpa penjelasan, pengobatan yang dimulai tanpa diskusi, pemulangan yang diproses tanpa memperhatikan kecemasan pasien—inilah momen-momen yang mengikis kepercayaan dan membuat pasien merasa tidak terlihat. Brawijaya Healthcare berupaya melatih stafnya untuk mengenali dan merespons momen-momen ini secara berbeda.\n\nIni berarti klinisi yang meluangkan waktu untuk menjelaskan bukan hanya apa yang terjadi secara medis, tetapi mengapa hal itu penting dan apa yang harus diharapkan. Ini berarti staf administratif yang menyambut pasien dengan kehangatan dan mengingat bahwa di balik setiap formulir pendaftaran ada seseorang yang khawatir, penuh harapan, atau kesakitan. Ini berarti merancang proses institusional di sekitar pengalaman pasien daripada kenyamanan operasional.\n\nBagi Amira, dampak jangka panjang dari pendekatan ini dapat diukur. Institusi yang memimpin dengan empati membangun loyalitas pasien yang bertahan melampaui kampanye pemasaran manapun. Mereka menarik dokter yang menghargai bekerja di lingkungan yang menghormati baik pasien maupun praktisi. Dan mereka berkontribusi pada budaya layanan kesehatan yang, seiring waktu, meningkatkan hasil—tidak hanya bagi pasien individual, tetapi bagi komunitas dan generasi yang bergantung pada mereka.",
+        "date": "2024-09-10",
+        "author": "Media Indonesia",
+        "source": "Media Indonesia",
+        "sourceUrl": "https://epaper.mediaindonesia.com/detail/amira-ganis-prioritaskan-empati-kepada-pasien",
+        "category": "Kepemimpinan"
+      }
     ]
   },
   "contactForm": {

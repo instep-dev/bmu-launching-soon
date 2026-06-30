@@ -32,7 +32,13 @@ export default function AboutSection() {
           <p className="text-gray-600 leading-relaxed mb-5">{t("p3")}</p>
           <p className="text-gray-600 leading-relaxed mb-5">{t("p4")}</p>
           <p className="text-gray-600 leading-relaxed mb-5">{t("p5")}</p>
-          <p className="text-gray-600 leading-relaxed">{t("p6")}</p>
+          <p className="text-gray-600 leading-relaxed mb-4">{t("p6")}</p>
+          <ul className="list-disc list-inside space-y-1 mb-5 text-gray-600">
+            {(t("p7") as string[]).map((item, i) => (
+              <li key={i}>{item}</li>
+            ))}
+          </ul>
+          <p className="text-gray-600 leading-relaxed">{t("p8")}</p>
         </div>
       </div>
     </section>

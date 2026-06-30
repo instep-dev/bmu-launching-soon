@@ -24,7 +24,7 @@ export default function AboutSection() {
           <PhotoWithShadow src="/GROUND BREAKING.jpeg" alt="BMU Healthcare groundbreaking" className="mt-4 md:mt-8" />
         </div>
         <div className="pt-2 md:pt-4">
-          <h2 className="text-[28px] sm:text-[34px] md:text-[40px] font-black mb-3 text-[#3dc4be]">
+          <h2 className="text-[28px] sm:text-[34px] md:text-[40px] font-black mb-3 text-gray-600">
             {t("heading")}
           </h2>
           <p className="text-gray-600 leading-relaxed mb-5">{t("p1")}</p>

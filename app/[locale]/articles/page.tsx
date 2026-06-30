@@ -91,7 +91,7 @@ export default async function ArticlesPage({
       <ArticlesNavbar />
       <main>
         <div className="max-w-7xl mx-auto px-4 md:px-8 py-10 md:py-14">
-          <h1 className="text-3xl md:text-4xl font-black text-[#3dc4be] mb-8">
+          <h1 className="text-3xl md:text-4xl font-black text-gray-600 mb-8">
             {(dict as any).articles.pageTitle}
           </h1>
 

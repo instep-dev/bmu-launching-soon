@@ -21,7 +21,7 @@ export default function TeamSection() {
 
           {/* Right: heading + quote + bio */}
           <div className="pt-0 md:pt-2">
-            <h2 className="text-[36px] sm:text-[38px] md:text-[42px] font-black text-[#3dc4be] leading-tight mb-6">
+            <h2 className="text-[36px] sm:text-[38px] md:text-[42px] font-black text-gray-600 leading-tight mb-6">
               {t("sectionHeading")}
             </h2>
             <p className="text-[17px] md:text-[19px] italic font-bold leading-snug mb-7 text-gray-900">

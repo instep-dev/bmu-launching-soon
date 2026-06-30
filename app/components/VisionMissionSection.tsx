@@ -9,36 +9,50 @@ export default function VisionMissionSection() {
     <section className="bg-white py-12 md:py-24">
       <div className="max-w-[1280px] mx-auto px-4 md:px-10 grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-16 items-start">
         {/* Left: image */}
-        <div className="relative pb-8">
-          <div className="relative z-10 w-full h-[220px] sm:h-[260px] md:h-[300px] rounded-md overflow-hidden">
-            <Image
-              src="/vision.jpeg"
-              alt="Healthcare professional"
-              fill
-              className="object-cover"
-            />
+        <div>
+          <div className="relative pb-8">
+            <div className="relative z-10 w-full h-[220px] sm:h-[260px] md:h-[300px] rounded-md overflow-hidden">
+              <Image
+                src="/vision.jpeg"
+                alt="Healthcare professional"
+                fill
+                className="object-cover"
+              />
+            </div>
+            <Image alt="" fill className="absolute inset-0" src={'/SHADOW PHOTO.png'} />
           </div>
-          <Image alt="" fill className="absolute inset-0" src={'/SHADOW PHOTO.png'} />
+
+          <div className="relative pb-8">
+            <div className="relative z-10 w-full h-[220px] sm:h-[260px] md:h-[300px] rounded-md overflow-hidden">
+              <Image
+                src="/visions.jpg"
+                alt="Healthcare professional"
+                fill
+                className="object-cover"
+              />
+            </div>
+            <Image alt="" fill className="absolute inset-0" src={'/SHADOW PHOTO.png'} />
+          </div>
         </div>
 
         {/* Right: Vision, Mission, context */}
         <div>
           <div className="mb-6 md:mb-8">
-            <h3 className="text-[22px] md:text-[26px] font-bold text-[#3dc4be] mb-3">
+            <h3 className="text-[22px] md:text-[26px] font-bold text-gray-600 mb-3">
               {t("visionHeading")}
             </h3>
             <p className="text-gray-600 leading-relaxed">{t("visionText")}</p>
           </div>
 
           <div className="mb-6 md:mb-8">
-            <h3 className="text-[22px] md:text-[26px] font-bold text-[#3dc4be] mb-3">
+            <h3 className="text-[22px] md:text-[26px] font-bold text-gray-600 mb-3">
               {t("missionHeading")}
             </h3>
             <p className="text-gray-600 leading-relaxed">{t("missionText")}</p>
           </div>
 
           <div>
-            <h3 className="text-[22px] md:text-[26px] font-bold text-[#3dc4be] mb-3">
+            <h3 className="text-[22px] md:text-[26px] font-bold text-gray-600 mb-3">
               {t("contextHeading")}
             </h3>
             <p className="text-gray-600 leading-relaxed">{t("contextText")}</p>

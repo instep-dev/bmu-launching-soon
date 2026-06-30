@@ -23,7 +23,7 @@ export default function PhilosophySection() {
 
         {/* Right: text */}
         <div>
-          <h2 className="text-[28px] sm:text-[34px] md:text-[40px] font-black text-[#3dc4be] leading-tight mb-6 md:mb-8">
+          <h2 className="text-[28px] sm:text-[34px] md:text-[40px] font-black  text-gray-600 leading-tight mb-6 md:mb-8">
             {t("label")}
             <br />
             {t("heading")}

@@ -33,7 +33,7 @@ export default function HeroSection() {
 
       {/* Hero content area — min-h so content never clips */}
       <div className="min-h-[56vh] sm:min-h-[65vh] md:min-h-[85vh] lg:min-h-[90vh] relative z-10">
-        <div className="max-w-[1280px] w-full mx-auto px-4 md:px-2 h-full grid grid-cols-1 md:grid-cols-2">
+        <div className="max-w-[1280px] w-full mx-auto px-4 md:px-10 h-full grid grid-cols-1 xl:grid-cols-2">
           <div className="flex flex-col space-y-3 md:space-y-3 lg:space-y-5 pb-8 md:pb-10 lg:pb-36 h-full">
             <div className="flex-1 min-h-[5rem] md:min-h-[6rem] lg:min-h-[8rem]" />
             <h1 className="text-2xl sm:text-3xl md:text-3xl lg:text-4xl xl:text-5xl font-semibold leading-tight">
@@ -59,7 +59,7 @@ export default function HeroSection() {
       </div>
 
       {/* Stats bar — in-flow on mobile & tablet, absolute on lg+ desktop */}
-      <div className="relative z-10 w-full grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4 lg:gap-10 px-4 md:px-10 py-4 md:py-3 lg:py-0 lg:absolute lg:-bottom-10 lg:left-1/2 lg:-translate-x-1/2 lg:w-[1280px] lg:px-0">
+      <div className="relative z-10 w-full grid grid-cols-2 xl:grid-cols-4 gap-3 md:gap-4 px-4 md:px-10 py-4 xl:py-0 xl:absolute xl:-bottom-10 xl:left-1/2 xl:-translate-x-1/2 xl:w-[1280px] xl:px-0">
         {stats.map((item, i) => (
           <div
             key={i}
